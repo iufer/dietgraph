@@ -1,0 +1,6 @@
+{
+	"require": {
+		"zend/gdata" : "1.*",
+		"slim/slim"  : "2.*"
+	}
+}

@@ -1,0 +1,105 @@
+{
+    "hash": "99463d569c24208f5ffb9ac80b38363a",
+    "packages": [
+        {
+            "name": "slim/slim",
+            "version": "2.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/codeguy/Slim",
+                "reference": "2.2.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/codeguy/Slim/archive/2.2.0.zip",
+                "reference": "2.2.0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Slim": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Josh Lockhart",
+                    "email": "info@joshlockhart.com",
+                    "homepage": "http://www.joshlockhart.com/"
+                }
+            ],
+            "description": "Slim Framework, a PHP micro framework",
+            "homepage": "http://github.com/codeguy/Slim",
+            "keywords": [
+                "microframework",
+                "rest",
+                "router"
+            ],
+            "time": "2012-12-13 02:15:50"
+        },
+        {
+            "name": "zend/gdata",
+            "version": "1.12.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/alchemy-fr/gdata",
+                "reference": "1.12.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alchemy-fr/gdata/zipball/1.12.1",
+                "reference": "1.12.1",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">5.2.4"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Zend_": "library"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "New BSD"
+            ],
+            "authors": [
+                {
+                    "name": "Zend Contributors",
+                    "homepage": "http://framework.zend.com/community/contributors"
+                }
+            ],
+            "description": "The Google Data APIs are a set of web services for read/write access to applications hosted by Google",
+            "homepage": "http://framework.zend.com/download/webservices",
+            "keywords": [
+                "gdata",
+                "zend"
+            ],
+            "time": "2013-01-30 15:31:21"
+        }
+    ],
+    "packages-dev": [
+
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ],
+    "platform": [
+
+    ],
+    "platform-dev": [
+
+    ]
+}
